@@ -21,7 +21,6 @@ A console-based Java application for managing employee records with full CRUD op
 
 ### Steps
 
-```bash
 # 1. Clone the repository
 git clone https://github.com/lucasyoo85/employee-manager-system.git
 
