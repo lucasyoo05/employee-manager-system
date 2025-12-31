@@ -21,14 +21,14 @@ A console-based Java application for managing employee records with full CRUD op
 
 ### Steps
 
-# 1. Clone the repository
+#### 1. Clone the repository
 git clone https://github.com/lucasyoo85/employee-manager-system.git
 
-# 2. Navigate to the project folder
+#### 2. Navigate to the project folder
 cd employee-manager-system
 
-# 3. Compile all Java files
+#### 3. Compile all Java files
 javac *.java
 
-# 4. Run the application
+#### 4. Run the application
 java Main
